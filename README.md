@@ -1,0 +1,2 @@
+# wintory-project
+Курсова робота
